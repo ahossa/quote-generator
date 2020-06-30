@@ -12,7 +12,7 @@ CHECK THIS OUT!
 https://ahossa.github.io/quote-generator/
 
 
-Some of the building blocks that were used to create this func web-app
+# Some of the building blocks that were used to create this fun web-app
 (Can be used for creating future components/resources)
 =========================================================================
 1) Quote Generator Api -> https://forismatic.com/en/api/
