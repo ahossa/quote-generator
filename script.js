@@ -37,7 +37,7 @@ async function getQuote() {
   } catch (error) {
     // @TODO : This is a recursive code, should have exit conditions
 
-    getQuote();
+    // getQuote();
     console.log(error);
   }
 }
