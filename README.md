@@ -13,8 +13,8 @@ https://ahossa.github.io/quote-generator/
 
 
 # Some of the building blocks that were used to create this fun web-app
-(Can be used for creating future components/resources)
-=========================================================================
+# Can be used for creating future components/resources too
+
 1) Quote Generator Api -> https://forismatic.com/en/api/
 2) Tweeter API for Tweet -> https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
 3) Googles Favicon service for custom Favicon -> https://css-tricks.com/favicons-next-to-external-links/
