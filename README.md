@@ -12,7 +12,6 @@ CHECK THIS OUT!
 https://ahossa.github.io/quote-generator/
 
 
-=========================================================================
 Some of the building blocks that were used to create this func web-app
 (Can be used for creating future components/resources)
 =========================================================================
