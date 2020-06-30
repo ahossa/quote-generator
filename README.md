@@ -8,12 +8,13 @@ introduction to modern webdev.
 Have introductory tricks and animations in CSS
 
 
-CHECK THIS OUT!
+# Check out the Project!
 https://ahossa.github.io/quote-generator/
 
 
 # Some of the building blocks that were used to create this fun web-app
-(Can be used for creating future components/resources too)
+
+THESE GREAT RESOURCES CAN BE USED FOR FUTURE COMPONENTS / PROJECTS TOO
 
 1) Quote Generator Api -> https://forismatic.com/en/api/
 2) Tweeter API for Tweet -> https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
